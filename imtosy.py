@@ -72,4 +72,4 @@ def imtosy(s, sybolsize, imagesize):
         imtosystatic(s, sybolsize, imagesize)    
 
 
-imtosygif('test.gif',15,1000)
+
